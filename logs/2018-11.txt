@@ -1,0 +1,384 @@
+
+2018-11-01 01:00:07   REQUEST DELTA CRON
+2018-11-01 01:00:09   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-01 02:30:06   DOWNLOAD DELTA CRON
+2018-11-01 02:30:07   Downloaded delta file from SanMar FTP
+2018-11-01 03:00:01   PROCESS DELTA CRON
+2018-11-01 03:00:01   Active - 5280, 2000, ST361
+2018-11-01 03:00:03   Inserted 39 rows into SanMarDelta_CSV
+2018-11-01 03:00:08   Completed stored procedure step 1
+2018-11-01 03:01:33   Completed stored procedure step 2
+2018-11-01 03:01:38   Updated 9 product images
+
+2018-11-02 01:00:07   REQUEST DELTA CRON
+2018-11-02 01:02:14   Failed to connect to SanMar API
+2018-11-02 02:30:10   DOWNLOAD DELTA CRON
+2018-11-02 02:30:10   No changes to remote delta file
+
+2018-11-03 01:00:07   REQUEST DELTA CRON
+2018-11-03 01:00:13   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-03 02:30:05   DOWNLOAD DELTA CRON
+2018-11-03 02:30:09   Downloaded delta file from SanMar FTP
+2018-11-03 03:00:02   PROCESS DELTA CRON
+2018-11-03 03:00:02   Active - 5280, 2000, 437M, EB200, EB201, 411090, K5200, L5200, LOE722, OE722, W668, LW668, DM130, DM132, DT137L, DM1350L
+2018-11-03 03:00:02   New - NKBQ5232, BC3719, BC3727, BC3729, BC3739, BC3901, BC3909, BC3939, BC3945, BC7501, DT155
+2018-11-03 03:00:23   Inserted 848 rows into SanMarDelta_CSV
+2018-11-03 03:00:24   Completed stored procedure step 1
+2018-11-03 03:03:39   Completed stored procedure step 2
+2018-11-03 03:04:10   Updated 81 product images
+
+2018-11-04 01:00:05   REQUEST DELTA CRON
+2018-11-04 01:00:07   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-04 02:30:07   DOWNLOAD DELTA CRON
+2018-11-04 02:30:08   Downloaded delta file from SanMar FTP
+2018-11-04 03:00:05   PROCESS DELTA CRON
+2018-11-04 03:00:05   Active - 2000, 779803, 779804, 779795, DM138L, DM130L
+2018-11-04 03:00:06   Inserted 45 rows into SanMarDelta_CSV
+2018-11-04 03:00:06   Completed stored procedure step 1
+2018-11-04 03:00:50   Completed stored procedure step 2
+2018-11-04 03:00:58   Updated 18 product images
+
+2018-11-05 01:00:07   REQUEST DELTA CRON
+2018-11-05 01:00:47   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-05 02:30:06   DOWNLOAD DELTA CRON
+2018-11-05 02:30:20   Downloaded delta file from SanMar FTP
+2018-11-05 03:00:04   PROCESS DELTA CRON
+2018-11-05 03:00:07   Active - 29M, 4662M, 5170, 5180, 5280, 5370, 562M, P160, P170, 4997M, 562B, 4528M, F260, 996Y, 054X, 29B, 993M, 437M, 436MP, PC61, 5250, PC61Y, PC61LS, 996M, PC90, PC90H, PC55, PC55Y, F170, P470, 993B, 5450, PC90Y, PC90YH, 18500, 2000B, 12000, 12500, 18000, 18000B, G2400, 5000, 5000B, 5400, 8000, 8000B, 8800, 2000, 2200, 18600, 4999M, 5586, PC90ZH, PC90YZH, 21M, 64000, 4980, SL04, P180, P480, 64000L, PC54Y, PC54, PC78, PC78H, PC78ZH, PC78P, 8400, 18500B, PC147, PC54LS, DT5000, DT5001, PC55LS, 3930, 3930B, 4930, PC150, DT6001, DT6000, KP55, KP155, 42000, F230, L230, S04V, 4200, HN270, HN280, LKP155, LPC54, 980, PC380, 4820, PC381, 423010, PC450, F230C, L230C, 6750, 6750L, 82800, 82800L, 72800, 72800L, AA9590, AA9573, AA32023, AA9595, AA9575, 411069C, 108087C, K164, LK164
+2018-11-05 03:00:07   New - PC590, PC590Q, PC590H, PC590YH, ST855, LST855, BC3483, BC3001, BC3001Y, BC3005, BC3200, BC3413, BC3413Y, BC3415, BC3480, BC3650, BC6004, BC6400, BC8413, BC8430, BC8800
+2018-11-05 03:00:32   Inserted 10929 rows into SanMarDelta_CSV
+2018-11-05 03:00:43   Completed stored procedure step 1
+2018-11-05 03:11:24   Completed stored procedure step 2
+2018-11-05 03:14:36   Updated 405 product images
+
+2018-11-06 01:00:08   REQUEST DELTA CRON
+2018-11-06 01:00:09   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-06 02:30:06   DOWNLOAD DELTA CRON
+2018-11-06 02:30:08   Downloaded delta file from SanMar FTP
+2018-11-06 03:00:02   PROCESS DELTA CRON
+2018-11-06 03:00:02   Active - 5280, 2000
+2018-11-06 03:00:03   Inserted 38 rows into SanMarDelta_CSV
+2018-11-06 03:00:04   Completed stored procedure step 1
+2018-11-06 03:00:21   Completed stored procedure step 2
+2018-11-06 03:00:27   Updated 6 product images
+2018-11-06 03:00:27   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-09_SanMarPI-Delta-215842.csv
+
+2018-11-07 01:00:08   REQUEST DELTA CRON
+2018-11-07 01:00:45   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-07 02:30:11   DOWNLOAD DELTA CRON
+2018-11-07 02:30:33   Downloaded delta file from SanMar FTP
+2018-11-07 03:00:04   PROCESS DELTA CRON
+2018-11-07 03:00:24   Active - 29M, 4662M, 5170, 5180, 5280, 5370, 562M, P160, P170, 4997M, 562B, 4528M, F260, 996Y, 054X, 29B, 993M, 437M, 436MP, PC61, 5250, PC61Y, PC61LS, 996M, PC90, PC90H, PC55, PC55Y, F170, P470, 993B, 5450, PC90Y, PC90YH, 18500, 2000B, 12000, 12500, 18000, 18000B, G2400, 5000, 5000B, 5400, 8000, 8000B, 8800, 2000, 2200, 18600, 4999M, 5586, PC90ZH, PC90YZH, 21M, 64000, 4980, SL04, P180, P480, 64000L, PC54Y, PC54, PC78, PC78H, PC78ZH, PC78P, 8400, 18500B, PC147, PC54LS, DT5000, DT5001, PC55LS, 3930, 3930B, 4930, PC150, DT6001, DT6000, KP55, KP155, 42000, S04V, 4200, HN270, HN280, LKP155, LPC54, 980, PC380, 4820, PC381, C920, PC450, 6750, 6750L, 82800, 82800L, 72800, 72800L, AA9590, AA9573, AA32023, AA9595, AA9575
+2018-11-07 03:00:24   New - PC590, PC590Q, PC590H, PC590YH, BC3001, BC3001Y, BC3005, BC3200, BC3413, BC3413Y, BC3415, BC3480, BC3650, BC3729, BC6004, BC6400, BC8413, BC8430, BC8800, BC8802
+2018-11-07 03:01:43   Inserted 10717 rows into SanMarDelta_CSV
+2018-11-07 03:01:54   Completed stored procedure step 1
+2018-11-07 03:12:08   Completed stored procedure step 2
+2018-11-07 03:14:07   Updated 378 product images
+2018-11-07 03:14:07   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-10_SanMarPI-Delta-215842.csv
+
+2018-11-08 01:00:06   REQUEST DELTA CRON
+2018-11-08 01:00:08   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-08 02:30:03   DOWNLOAD DELTA CRON
+2018-11-08 02:30:04   Downloaded delta file from SanMar FTP
+2018-11-08 03:00:03   PROCESS DELTA CRON
+2018-11-08 03:00:04   Active - 5280, 2000, T474, LST396
+2018-11-08 03:00:08   Inserted 55 rows into SanMarDelta_CSV
+2018-11-08 03:00:09   Completed stored procedure step 1
+2018-11-08 03:00:59   Completed stored procedure step 2
+2018-11-08 03:01:04   Updated 12 product images
+2018-11-08 03:01:04   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-11_SanMarPI-Delta-215842.csv
+
+2018-11-09 01:00:07   REQUEST DELTA CRON
+2018-11-09 01:00:11   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-09 02:30:02   DOWNLOAD DELTA CRON
+2018-11-09 02:30:04   Downloaded delta file from SanMar FTP
+2018-11-09 03:00:01   PROCESS DELTA CRON
+2018-11-09 03:00:01   Active - 5280, 2000, DT1800, DT2800, K580, L580, ST630, LST630, NEA521
+2018-11-09 03:00:01   New - LNEA522, NEA523, NEA520
+2018-11-09 03:00:02   Inserted 446 rows into SanMarDelta_CSV
+2018-11-09 03:00:03   Completed stored procedure step 1
+2018-11-09 03:01:14   Completed stored procedure step 2
+2018-11-09 03:01:33   Updated 36 product images
+2018-11-09 03:01:33   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-12_SanMarPI-Delta-215842.csv
+
+2018-11-10 01:00:08   REQUEST DELTA CRON
+2018-11-10 01:00:10   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-10 02:30:03   DOWNLOAD DELTA CRON
+2018-11-10 02:30:04   Downloaded delta file from SanMar FTP
+2018-11-10 03:00:03   PROCESS DELTA CRON
+2018-11-10 03:00:04   Active - 437M, PC55T
+2018-11-10 03:00:05   Inserted 8 rows into SanMarDelta_CSV
+2018-11-10 03:00:05   Completed stored procedure step 1
+2018-11-10 03:00:13   Completed stored procedure step 2
+2018-11-10 03:00:15   Updated 6 product images
+2018-11-10 03:00:15   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-13_SanMarPI-Delta-215842.csv
+
+2018-11-11 01:00:05   REQUEST DELTA CRON
+2018-11-11 01:00:07   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-11 02:30:03   DOWNLOAD DELTA CRON
+2018-11-11 02:30:04   Downloaded delta file from SanMar FTP
+2018-11-11 03:00:06   PROCESS DELTA CRON
+2018-11-11 03:00:06   Active - 5280, 2000
+2018-11-11 03:00:07   Inserted 38 rows into SanMarDelta_CSV
+2018-11-11 03:00:07   Completed stored procedure step 1
+2018-11-11 03:00:23   Completed stored procedure step 2
+2018-11-11 03:00:25   Updated 6 product images
+2018-11-11 03:00:25   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-14_SanMarPI-Delta-215842.csv
+
+2018-11-12 01:00:08   REQUEST DELTA CRON
+2018-11-12 01:00:47   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-12 02:30:40   DOWNLOAD DELTA CRON
+2018-11-12 02:31:30   Downloaded delta file from SanMar FTP
+2018-11-12 03:00:01   PROCESS DELTA CRON
+2018-11-12 03:00:16   Active - 29M, 4662M, 5170, 5180, 5280, 5370, 562M, P160, P170, B100, 4997M, B050, 562B, 4528M, F260, 996Y, 054X, 29B, 993M, 437M, 436MP, PC61, 5250, PC61Y, PC61LS, 996M, PC90, PC90H, PC55, PC55Y, F170, P470, 993B, 5450, PC90Y, PC90YH, 18500, 2000B, 12000, 12500, 18000, 18000B, G2400, 5000, 5000B, 5400, 8000, 8000B, 8800, 2000, 2200, 18600, 4999M, 5586, PC90ZH, PC90YZH, 21M, 64000, 4980, SL04, P180, P480, 64000L, PC54Y, PC54, PC78, PC78H, PC78ZH, PC78P, 8400, 18500B, PC147, PC54LS, DT5000, DT5001, PC55LS, 3930, 3930B, 4930, PC150, DT6001, DT6000, KP55, KP155, B5160, 42000, S04V, 4200, HN270, HN280, LKP155, LPC54, 980, PC380, 4820, PC381, PC450, LST225, ST226, ST225, OG2010, LOG2010, 6750, 6750L, 82800, 82800L, 72800, 72800L, AA9590, AA9573, AA32023, AA9595, AA9575
+2018-11-12 03:00:16   New - PC590, PC590Q, PC590H, PC590YH, EB242, EB243, BC3001, BC3001Y, BC3005, BC3200, BC3413, BC3413Y, BC3415, BC3480, BC3650, BC3729, BC6004, BC6400, BC8413, BC8430, BC8800, BC8802
+2018-11-12 03:00:50   Inserted 10990 rows into SanMarDelta_CSV
+2018-11-12 03:01:05   Completed stored procedure step 1
+2018-11-12 03:12:03   Completed stored procedure step 2
+2018-11-12 03:14:55   Updated 405 product images
+2018-11-12 03:14:55   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-15_SanMarPI-Delta-215842.csv
+
+2018-11-13 01:00:07   REQUEST DELTA CRON
+2018-11-13 01:00:09   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-13 02:31:56   DOWNLOAD DELTA CRON
+2018-11-13 02:32:03   Downloaded delta file from SanMar FTP
+2018-11-13 03:00:01   PROCESS DELTA CRON
+2018-11-13 03:00:01   Active - 5280, 2000
+2018-11-13 03:00:02   Inserted 38 rows into SanMarDelta_CSV
+2018-11-13 03:00:03   Completed stored procedure step 1
+2018-11-13 03:00:20   Completed stored procedure step 2
+2018-11-13 03:00:23   Updated 6 product images
+2018-11-13 03:00:23   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-16_SanMarPI-Delta-215842.csv
+
+2018-11-14 01:00:08   REQUEST DELTA CRON
+2018-11-14 01:00:50   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-14 02:30:04   DOWNLOAD DELTA CRON
+2018-11-14 02:30:18   Downloaded delta file from SanMar FTP
+2018-11-14 03:00:01   PROCESS DELTA CRON
+2018-11-14 03:00:05   Active - 29M, 4662M, 5170, 5180, 5280, 5370, 562M, P160, P170, 4997M, 562B, 4528M, F260, 996Y, 054X, 29B, 993M, 437M, 436MP, PC61, 5250, PC61Y, PC61LS, 996M, PC90, PC90H, PC55, PC55Y, F170, P470, 993B, 5450, PC90Y, PC90YH, 18500, 2000B, 12000, 12500, 18000, 18000B, G2400, 5000, 5000B, 5400, 8000, 8000B, 8800, 2000, 2200, 18600, 4999M, 5586, PC90ZH, PC90YZH, 21M, 64000, 4980, SL04, P180, P480, 64000L, PC54Y, PC54, PC78, PC78H, PC78ZH, PC78P, 8400, 18500B, PC147, PC54LS, DT5000, DT5001, PC55LS, 3930, 3930B, 4930, PC150, DT6001, DT6000, KP55, KP155, 42000, S04V, 4200, HN270, HN280, LKP155, LPC54, 980, PC380, 4820, PC381, PC450, 6750, 6750L, 82800, 82800L, 72800, 72800L, AA9590, AA9573, AA32023, AA9595, AA9575, DM477, NF0A3LGT, NF0A3LGU, NF0A3LGV, NF0A3LGW, NF0A3LGX, NF0A3LGY, NF0A3LGZ, NF0A3LH1, NF0A3LH4, NF0A3LH5, NF0A3LH2, NF0A3LHK, NF0A3LHD, NF0A3LHL, NF0A3LH6, NF0A3LH7, NF0A3LH8, NF0A3LH9, NF0A3LHA, NF0A3LHH, NF0A3LHB, NF0A3LHC, DT365A
+2018-11-14 03:00:05   New - PC590, PC590Q, PC590H, PC590YH, NF0A3SEF, NF0A3SEW, NF0A3SEV, NF0A3SES, BC3001, BC3001Y, BC3005, BC3200, BC3413, BC3413Y, BC3415, BC3480, BC3650, BC3729, BC6004, BC6400, BC8413, BC8430, BC8800, BC8802
+2018-11-14 03:00:30   Inserted 11209 rows into SanMarDelta_CSV
+2018-11-14 03:00:42   Completed stored procedure step 1
+2018-11-14 03:14:36   Completed stored procedure step 2
+2018-11-14 03:16:37   Updated 459 product images
+2018-11-14 03:16:37   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-17_SanMarPI-Delta-215842.csv
+
+2018-11-15 01:00:07   REQUEST DELTA CRON
+2018-11-15 01:00:11   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-15 02:30:02   DOWNLOAD DELTA CRON
+2018-11-15 02:30:04   Downloaded delta file from SanMar FTP
+2018-11-15 03:00:01   PROCESS DELTA CRON
+2018-11-15 03:00:01   Active - 5280, 2000, L317
+2018-11-15 03:00:01   New - BC3719, BC3727, BC3739, BC3901, BC3909, BC3939, BC3945, BC7501
+2018-11-15 03:00:13   Inserted 498 rows into SanMarDelta_CSV
+2018-11-15 03:00:13   Completed stored procedure step 1
+2018-11-15 03:02:04   Completed stored procedure step 2
+2018-11-15 03:02:24   Failed to save small image for 2000
+2018-11-15 03:02:44   Failed to save medium image for 2000
+2018-11-15 03:03:05   Failed to save large image for 2000
+2018-11-15 03:03:25   Failed to save small image for 5280
+2018-11-15 03:03:45   Failed to save medium image for 5280
+2018-11-15 03:04:05   Failed to save large image for 5280
+2018-11-15 03:04:26   Failed to save small image for BC3719
+2018-11-15 03:04:46   Failed to save medium image for BC3719
+2018-11-15 03:05:06   Failed to save large image for BC3719
+2018-11-15 03:05:28   Failed to save small image for BC3727
+2018-11-15 03:05:48   Failed to save medium image for BC3727
+2018-11-15 03:06:08   Failed to save large image for BC3727
+2018-11-15 03:06:28   Failed to save small image for BC3739
+2018-11-15 03:06:49   Failed to save medium image for BC3739
+2018-11-15 03:07:09   Failed to save large image for BC3739
+2018-11-15 03:07:29   Failed to save small image for BC3901
+2018-11-15 03:07:49   Failed to save medium image for BC3901
+2018-11-15 03:08:09   Failed to save large image for BC3901
+2018-11-15 03:08:35   Failed to save small image for BC3909
+2018-11-15 03:08:55   Failed to save medium image for BC3909
+2018-11-15 03:09:15   Failed to save large image for BC3909
+2018-11-15 03:09:37   Failed to save small image for BC3939
+2018-11-15 03:09:57   Failed to save medium image for BC3939
+2018-11-15 03:10:17   Failed to save large image for BC3939
+2018-11-15 03:10:38   Failed to save small image for BC3945
+2018-11-15 03:10:58   Failed to save medium image for BC3945
+2018-11-15 03:11:18   Failed to save large image for BC3945
+2018-11-15 03:11:39   Failed to save small image for BC7501
+2018-11-15 03:11:59   Failed to save medium image for BC7501
+2018-11-15 03:12:19   Failed to save large image for BC7501
+2018-11-15 03:12:29   Failed to save small image for L317
+2018-11-15 03:12:39   Failed to save medium image for L317
+2018-11-15 03:12:49   Failed to save large image for L317
+2018-11-15 03:12:50   Updated  product images
+2018-11-15 03:12:50   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-18_SanMarPI-Delta-215842.csv
+
+2018-11-16 01:00:06   REQUEST DELTA CRON
+2018-11-16 01:00:53   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-16 02:30:05   DOWNLOAD DELTA CRON
+2018-11-16 02:31:02   Downloaded delta file from SanMar FTP
+2018-11-16 03:00:02   PROCESS DELTA CRON
+2018-11-16 03:00:15   Active - 29M, 4662M, 5170, 5180, 5280, 5370, 562M, P160, P170, 4997M, 562B, 4528M, F260, 996Y, 054X, 29B, 993M, 437M, 436MP, PC61, 5250, PC61Y, PC61LS, 996M, PC90, PC90H, PC55, PC55Y, F170, P470, 993B, 5450, PC90Y, PC90YH, 18500, 2000B, 12000, 12500, 18000, 18000B, G2400, 5000, 5000B, 5400, 8000, 8000B, 8800, 2000, 2200, 18600, 4999M, 5586, PC90ZH, PC90YZH, 21M, 64000, 4980, SL04, P180, P480, 64000L, PC54Y, PC54, PC78, PC78H, PC78ZH, PC78P, 8400, 18500B, PC147, PC54LS, DT5000, DT5001, PC55LS, 3930, 3930B, 4930, L321, J321, PC150, DT6001, DT6000, KP55, KP155, 42000, S04V, 4200, HN270, HN280, LKP155, LPC54, 980, PC380, 4820, PC381, K806, L806, PC450, 6750, 6750L, 82800, 82800L, 72800, 72800L, AA9590, AA9573, AA32023, AA9595, AA9575, LKP1500, KP1500, NF0A3LGT, NF0A3LGU, NF0A3LGV, NF0A3LGW, NF0A3LGX, NF0A3LGY, NF0A3LGZ, NF0A3LH1, NF0A3LH4, NF0A3LH5, NF0A3LH2, NF0A3LHK, NF0A3LHD, NF0A3LHL, NF0A3LH6, NF0A3LH7, NF0A3LH8, NF0A3LH9, NF0A3LHA, NF0A3LHH, NF0A3LHB, NF0A3LHC
+2018-11-16 03:00:15   New - PC590, PC590Q, PC590H, PC590YH, OE326, LOE326, LOE327, NF0A3SEF, NF0A3SEW, NF0A3SEV, NF0A3SES, NKAH6254, NKAH6418, NKAH6260, NKAH6259, NKAH6264, BC3001, BC3001Y, BC3005, BC3200, BC3413, BC3413Y, BC3415, BC3480, BC3650, BC3729, BC6004, BC6400, BC8413, BC8430, BC8800, BC8802
+2018-11-16 03:00:44   Inserted 11742 rows into SanMarDelta_CSV
+2018-11-16 03:00:58   Completed stored procedure step 1
+2018-11-16 03:15:20   Completed stored procedure step 2
+2018-11-16 03:18:05   Updated 495 product images
+2018-11-16 03:18:05   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-19_SanMarPI-Delta-215842.csv
+
+2018-11-17 01:00:07   REQUEST DELTA CRON
+2018-11-17 01:00:12   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-17 02:30:03   DOWNLOAD DELTA CRON
+2018-11-17 02:30:06   Downloaded delta file from SanMar FTP
+2018-11-17 03:00:04   PROCESS DELTA CRON
+2018-11-17 03:00:05   Active - NF0A3LGT, NF0A3LGU, NF0A3LGV, NF0A3LGW, NF0A3LGX, NF0A3LGY, NF0A3LGZ, NF0A3LH1, NF0A3LH4, NF0A3LH5, NF0A3LH2, NF0A3LHK, NF0A3LHD, NF0A3LHL, NF0A3LH6, NF0A3LH7, NF0A3LH8, NF0A3LH9, NF0A3LHA, NF0A3LHH, NF0A3LHB, NF0A3LHC
+2018-11-17 03:00:05   New - NF0A3SEF, NF0A3SEW, NF0A3SEV, NF0A3SES
+2018-11-17 03:00:07   Inserted 449 rows into SanMarDelta_CSV
+2018-11-17 03:00:08   Completed stored procedure step 1
+2018-11-17 03:03:37   Completed stored procedure step 2
+2018-11-17 03:03:58   Updated 78 product images
+2018-11-17 03:03:58   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-20_SanMarPI-Delta-215842.csv
+
+2018-11-18 01:00:06   REQUEST DELTA CRON
+2018-11-18 01:00:08   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-18 02:30:04   DOWNLOAD DELTA CRON
+2018-11-18 02:30:10   Downloaded delta file from SanMar FTP
+2018-11-18 03:00:08   PROCESS DELTA CRON
+2018-11-18 03:00:08   Active - 5280, 2000
+2018-11-18 03:00:09   Inserted 30 rows into SanMarDelta_CSV
+2018-11-18 03:00:10   Completed stored procedure step 1
+2018-11-18 03:00:22   Completed stored procedure step 2
+2018-11-18 03:00:25   Updated 6 product images
+2018-11-18 03:00:25   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-21_SanMarPI-Delta-215842.csv
+
+2018-11-19 01:00:08   REQUEST DELTA CRON
+2018-11-19 01:00:45   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-19 02:30:02   DOWNLOAD DELTA CRON
+2018-11-19 02:30:21   Downloaded delta file from SanMar FTP
+2018-11-19 03:00:01   PROCESS DELTA CRON
+2018-11-19 03:00:04   Active - 29M, 4662M, 5170, 5180, 5280, 5370, 562M, P160, P170, 4997M, 562B, 4528M, F260, 996Y, 054X, 29B, 993M, 437M, 436MP, PC61, 5250, PC61Y, PC61LS, 996M, PC90, PC90H, PC55, PC55Y, F170, P470, 993B, 5450, PC90Y, PC90YH, 18500, 2000B, 12000, 12500, 18000, 18000B, G2400, 5000, 5000B, 5400, 8000, 8000B, 8800, 2000, 2200, 18600, 4999M, 5586, PC90ZH, PC90YZH, 21M, 64000, 4980, SL04, P180, P480, 64000L, PC54Y, PC54, PC78, PC78H, PC78ZH, PC78P, 8400, 18500B, PC147, PC54LS, DT5000, DT5001, EB200, EB201, PC55LS, 3930, 3930B, 4930, PC150, DT6001, DT6000, KP55, KP155, 42000, S04V, 4200, HN270, HN280, LKP155, LPC54, 980, PC380, 4820, PC381, PC450, K5200, L5200, 6750, 6750L, 82800, 82800L, 72800, 72800L, AA9590, AA9573, AA32023, AA9595, AA9575, LOE722, OE722, W668, LW668
+2018-11-19 03:00:04   New - PC590, PC590Q, PC590H, PC590YH, BC3001, BC3001Y, BC3005, BC3200, BC3413, BC3413Y, BC3415, BC3480, BC3650, BC3729, BC6004, BC6400, BC8413, BC8430, BC8800, BC8802
+2018-11-19 03:00:33   Inserted 11006 rows into SanMarDelta_CSV
+2018-11-19 03:00:44   Completed stored procedure step 1
+2018-11-19 03:13:15   Completed stored procedure step 2
+2018-11-19 03:15:26   Updated 399 product images
+2018-11-19 03:15:26   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-22_SanMarPI-Delta-215842.csv
+
+2018-11-20 01:00:08   REQUEST DELTA CRON
+2018-11-20 01:00:09   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-20 02:30:02   DOWNLOAD DELTA CRON
+2018-11-20 02:30:03   Downloaded delta file from SanMar FTP
+2018-11-20 03:00:02   PROCESS DELTA CRON
+2018-11-20 03:00:02   Active - 5280, 2000, S508, 437M
+2018-11-20 03:00:03   Inserted 47 rows into SanMarDelta_CSV
+2018-11-20 03:00:03   Completed stored procedure step 1
+2018-11-20 03:00:35   Completed stored procedure step 2
+2018-11-20 03:00:39   Updated 12 product images
+2018-11-20 03:00:39   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-23_SanMarPI-Delta-215842.csv
+
+2018-11-21 01:00:07   REQUEST DELTA CRON
+2018-11-21 01:00:45   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-21 02:30:04   DOWNLOAD DELTA CRON
+2018-11-21 02:30:25   Downloaded delta file from SanMar FTP
+2018-11-21 03:00:01   PROCESS DELTA CRON
+2018-11-21 03:00:12   Active - 29M, 4662M, 5170, 5180, 5280, 5370, 562M, P160, P170, 4997M, 562B, 4528M, F260, 996Y, 054X, 29B, 993M, 437M, 436MP, PC61, 5250, PC61Y, PC61LS, 996M, PC90, PC90H, PC55, PC55Y, F170, P470, 993B, 5450, PC90Y, PC90YH, 18500, 2000B, 12000, 12500, 18000, 18000B, G2400, 5000, 5000B, 5400, 8000, 8000B, 8800, 2000, 2200, 18600, 4999M, S508, 5586, PC90ZH, PC90YZH, 21M, 64000, 4980, SL04, P180, P480, 64000L, PC54Y, PC54, PC78, PC78H, PC78ZH, PC78P, 8400, 18500B, PC147, PC54LS, DT5000, DT5001, PC55LS, 3930, 3930B, 4930, PC150, DT6001, DT6000, KP55, KP155, 42000, S04V, 4200, HN270, HN280, LKP155, LPC54, 980, PC380, 4820, PC381, PC450, 6750, 6750L, 82800, 82800L, 72800, 72800L, AA9590, AA9573, AA32023, AA9595, AA9575
+2018-11-21 03:00:12   New - PC590, PC590Q, PC590H, PC590YH, BC3001, BC3001Y, BC3005, BC3200, BC3413, BC3413Y, BC3415, BC3480, BC3650, BC3729, BC6004, BC6400, BC8413, BC8430, BC8800, BC8802
+2018-11-21 03:00:36   Inserted 10729 rows into SanMarDelta_CSV
+2018-11-21 03:00:47   Completed stored procedure step 1
+2018-11-21 03:11:14   Completed stored procedure step 2
+2018-11-21 03:13:00   Updated 378 product images
+2018-11-21 03:13:00   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-24_SanMarPI-Delta-215842.csv
+
+2018-11-22 01:00:06   REQUEST DELTA CRON
+2018-11-22 01:00:07   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-22 02:30:04   DOWNLOAD DELTA CRON
+2018-11-22 02:30:06   Downloaded delta file from SanMar FTP
+2018-11-22 03:00:02   PROCESS DELTA CRON
+2018-11-22 03:00:03   Active - 5280, 2000, C871
+2018-11-22 03:00:06   Inserted 31 rows into SanMarDelta_CSV
+2018-11-22 03:00:06   Completed stored procedure step 1
+2018-11-22 03:00:32   Completed stored procedure step 2
+2018-11-22 03:00:35   Updated 9 product images
+2018-11-22 03:00:35   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-25_SanMarPI-Delta-215842.csv
+
+2018-11-23 01:00:07   REQUEST DELTA CRON
+2018-11-23 01:00:09   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-23 02:30:03   DOWNLOAD DELTA CRON
+2018-11-23 02:30:04   Downloaded delta file from SanMar FTP
+2018-11-23 03:00:02   PROCESS DELTA CRON
+2018-11-23 03:00:02   Active - 5280, 2000
+2018-11-23 03:00:02   Coming soon - DT355
+2018-11-23 03:00:03   Inserted 31 rows into SanMarDelta_CSV
+2018-11-23 03:00:04   Completed stored procedure step 1
+2018-11-23 03:00:25   Completed stored procedure step 2
+2018-11-23 03:00:28   Updated 9 product images
+2018-11-23 03:00:28   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-26_SanMarPI-Delta-215842.csv
+
+2018-11-24 01:00:06   REQUEST DELTA CRON
+2018-11-24 01:00:08   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-24 02:30:03   DOWNLOAD DELTA CRON
+2018-11-24 02:30:03   Failed to login to SanMar FTP
+
+2018-11-25 01:00:04   REQUEST DELTA CRON
+2018-11-25 01:00:05   SanMar API response: ERROR: No update found since last bulk/delta download.
+2018-11-25 02:30:09   DOWNLOAD DELTA CRON
+2018-11-25 02:30:09   Failed to login to SanMar FTP
+
+2018-11-26 01:00:06   REQUEST DELTA CRON
+2018-11-26 01:00:43   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-26 02:30:01   DOWNLOAD DELTA CRON
+2018-11-26 02:30:30   Downloaded delta file from SanMar FTP
+2018-11-26 03:00:03   PROCESS DELTA CRON
+2018-11-26 03:00:06   Active - 29M, 4662M, 5170, 5180, 5280, 5370, 562M, P160, P170, 4997M, 562B, 4528M, F260, 996Y, 054X, 29B, 993M, 437M, 436MP, PC61, 5250, PC61Y, PC61LS, 996M, PC90, PC90H, PC55, PC55Y, F170, P470, 993B, 5450, PC90Y, PC90YH, 18500, 2000B, 12000, 12500, 18000, 18000B, G2400, 5000, 5000B, 5400, 8000, 8000B, 8800, 2000, 2200, 18600, 4999M, S508, 5586, PC90ZH, PC90YZH, 21M, 64000, 4980, SL04, P180, P480, 64000L, PC54Y, PC54, PC78, PC78H, PC78ZH, PC78P, 8400, 18500B, PC147, PC54LS, DT5000, DT5001, PC55LS, 3930, 3930B, 4930, DT1800, DT2800, PC150, DT6001, DT6000, KP55, KP155, 42000, S04V, 4200, HN270, HN280, LKP155, LPC54, 980, PC380, 4820, PC381, PC450, 6750, 6750L, 82800, 82800L, 72800, 72800L, AA9590, AA9573, AA32023, AA9595, AA9575, K580, L580, ST630, LST630, NEA521
+2018-11-26 03:00:06   New - PC590, PC590Q, PC590H, PC590YH, LNEA522, NEA523, NEA520, BC3001, BC3001Y, BC3005, BC3200, BC3413, BC3413Y, BC3415, BC3480, BC3650, BC3729, BC6004, BC6400, BC8413, BC8430, BC8800, BC8802
+2018-11-26 03:00:27   Inserted 11130 rows into SanMarDelta_CSV
+2018-11-26 03:00:38   Completed stored procedure step 1
+2018-11-26 03:11:30   Completed stored procedure step 2
+2018-11-26 03:14:25   Updated 408 product images
+2018-11-26 03:14:25   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-27_SanMarPI-Delta-215842.csv
+2018-11-26 03:14:25   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-28_SanMarPI-Delta-215842.csv
+2018-11-26 03:14:25   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-29_SanMarPI-Delta-215842.csv
+
+2018-11-27 01:00:06   REQUEST DELTA CRON
+2018-11-27 01:00:07   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-27 02:30:06   DOWNLOAD DELTA CRON
+2018-11-27 02:30:08   Downloaded delta file from SanMar FTP
+2018-11-27 03:00:02   PROCESS DELTA CRON
+2018-11-27 03:00:02   Active - 2000
+2018-11-27 03:00:03   Inserted 8 rows into SanMarDelta_CSV
+2018-11-27 03:00:03   Completed stored procedure step 1
+2018-11-27 03:02:33   Completed stored procedure step 2
+2018-11-27 03:02:34   Updated 3 product images
+
+2018-11-28 01:00:08   REQUEST DELTA CRON
+2018-11-28 01:00:43   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-28 02:30:05   DOWNLOAD DELTA CRON
+2018-11-28 02:30:32   Downloaded delta file from SanMar FTP
+2018-11-28 03:00:01   PROCESS DELTA CRON
+2018-11-28 03:00:19   Active - 29M, 4662M, 5170, 5180, 5280, 5370, 562M, P160, P170, 4997M, 562B, 4528M, F260, 996Y, 054X, 29B, 993M, 437M, 436MP, PC61, 5250, PC61Y, PC61LS, 996M, PC90, PC90H, PC55, PC55Y, F170, P470, 993B, 5450, PC90Y, PC90YH, 18500, 2000B, 12000, 12500, 18000, 18000B, G2400, 5000, 5000B, 5400, 8000, 8000B, 8800, 2000, 2200, 18600, 4999M, S508, 5586, PC90ZH, PC90YZH, 21M, 64000, 4980, SL04, P180, P480, 64000L, PC54Y, PC54, PC78, PC78H, PC78ZH, PC78P, 8400, 18500B, PC147, PC54LS, DT5000, DT5001, PC55LS, 3930, 3930B, 4930, PC150, DT6001, DT6000, KP55, KP155, 42000, S04V, 4200, HN270, HN280, LKP155, LPC54, 980, PC380, 4820, PC381, PC450, 6750, 6750L, 82800, 82800L, 72800, 72800L, AA9590, AA9573, AA32023, AA9595, AA9575
+2018-11-28 03:00:20   New - PC590, PC590Q, PC590H, PC590YH, BC3001, BC3001Y, BC3005, BC3200, BC3413, BC3413Y, BC3415, BC3480, BC3650, BC3729, BC6004, BC6400, BC8413, BC8430, BC8800, BC8802
+2018-11-28 03:01:13   Inserted 10726 rows into SanMarDelta_CSV
+2018-11-28 03:01:23   Completed stored procedure step 1
+2018-11-28 03:11:44   Completed stored procedure step 2
+2018-11-28 03:13:34   Updated 378 product images
+2018-11-28 03:13:34   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-10-31_SanMarPI-Delta-215842.csv
+
+2018-11-29 01:00:07   REQUEST DELTA CRON
+2018-11-29 01:00:09   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-29 02:30:07   DOWNLOAD DELTA CRON
+2018-11-29 02:30:09   Downloaded delta file from SanMar FTP
+2018-11-29 03:00:04   PROCESS DELTA CRON
+2018-11-29 03:00:04   Active - 5280, 2000, S508
+2018-11-29 03:00:04   New - BC3001
+2018-11-29 03:00:06   Inserted 42 rows into SanMarDelta_CSV
+2018-11-29 03:00:07   Completed stored procedure step 1
+2018-11-29 03:00:46   Completed stored procedure step 2
+2018-11-29 03:00:50   Updated 12 product images
+2018-11-29 03:00:50   Deleted old delta file /var/www/html/vendorapis/sanmar/delta/2018-11-01_SanMarPI-Delta-215842.csv
+
+2018-11-30 01:00:06   REQUEST DELTA CRON
+2018-11-30 01:00:10   SanMar API response: Product Info sent successfully. CSV file is also available via FTP.
+2018-11-30 02:30:02   DOWNLOAD DELTA CRON
+2018-11-30 02:30:04   Downloaded delta file from SanMar FTP
+2018-11-30 03:00:02   PROCESS DELTA CRON
+2018-11-30 03:00:02   Active - 5280, 2000, S646, L646, AA5050, OE503, LOE503, DM416, K164, LK164
+2018-11-30 03:00:02   New - OG724, LOG724
+2018-11-30 03:00:03   Inserted 364 rows into SanMarDelta_CSV
+2018-11-30 03:00:03   Completed stored procedure step 1
+2018-11-30 03:01:35   Completed stored procedure step 2
+2018-11-30 03:01:50   Updated 36 product images
